@@ -21,7 +21,4 @@ function displayJoke(randomjoke) {
     theJoke.innerHTML = 'Get another joke'
 }
 
-
-
-
 theJoke.addEventListener('click', getAjoke)

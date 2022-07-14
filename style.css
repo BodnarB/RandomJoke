@@ -26,6 +26,10 @@ main {
     border-radius: 1rem;
 }
 
+h1 {
+    margin: 1.5rem;
+}
+
 .joke {
     display: flex;
     flex-direction: column;
@@ -36,15 +40,16 @@ main {
     background-color: rgba(0, 0, 0, 0.7);
     padding: 1rem 3rem;
     border-radius: 0.5rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 
 .ask-btn {
     padding: 0.7rem 1.1rem;
     font-weight: 500;
     font-size: 1.1rem;
-    background-color: rgb(255, 209, 84);
+    background-color: rgb(255, 209, 9);
     border-radius: 0.5rem;
+    border: none;
 }
 
 .ask-btn:hover {
