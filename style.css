@@ -6,7 +6,10 @@
 html {
     font-size: 17px;
     background-image: url(https://images.pexels.com/photos/6128127/pexels-photo-6128127.jpeg);
-    background-size: cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
 }
 
 body {
